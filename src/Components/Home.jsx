@@ -12,7 +12,7 @@ const Home = () => {
          <img src="https://www.atomic-energy.ru/files/images/2021/11/agni-v-ballistic-missile-india-02.jpg" alt=""/>
       </p>
       <div className="author">
-        <p>Сделал: Гыязитдинов Нурмухамат</p>
+        <p> Нурмухамат</p>
       </div>
     </div>
   );
